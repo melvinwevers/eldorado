@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.28)  13 APR 2020 09:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.2.28)  13 APR 2020 10:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -755,19 +755,19 @@ Package pdftex.def Info: figures/classifieds.jpg  used on input line 74.
 (pdftex.def)             Requested size: 25.35994pt x 155.53244pt.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8.0> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 76.
-<figures/Trouw_ad_curve.jpg, id=116, 1156.32pt x 722.7pt>
+ [4 </Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/figures/classifieds.jpg>]
+<figures/Trouw_ad_curve.jpg, id=129, 1156.32pt x 722.7pt>
 File: figures/Trouw_ad_curve.jpg Graphic file (type jpg)
 <use figures/Trouw_ad_curve.jpg>
 Package pdftex.def Info: figures/Trouw_ad_curve.jpg  used on input line 89.
 (pdftex.def)             Requested size: 297.0446pt x 185.64795pt.
- [4 </Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/figures/classifieds.jpg>]
-<figures/mean_size.jpg, id=129, 1156.32pt x 722.7pt>
+<figures/mean_size.jpg, id=130, 1156.32pt x 722.7pt>
 File: figures/mean_size.jpg Graphic file (type jpg)
 <use figures/mean_size.jpg>
 Package pdftex.def Info: figures/mean_size.jpg  used on input line 98.
 (pdftex.def)             Requested size: 297.0446pt x 185.64795pt.
  [5 </Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/figures/Trouw_ad_curve.jpg>]
-<figures/Trouw_Even_Pages_heatmap.png, id=143, 275.1078pt x 268.8444pt>
+<figures/Trouw_Even_Pages_heatmap.png, id=144, 275.1078pt x 268.8444pt>
 File: figures/Trouw_Even_Pages_heatmap.png Graphic file (type png)
 <use figures/Trouw_Even_Pages_heatmap.png>
 Package pdftex.def Info: figures/Trouw_Even_Pages_heatmap.png  used on input line 113.
@@ -779,17 +779,17 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <4.91829> on input line 114.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <3.51308> on input line 114.
-<figures/Trouw_Odd_Pages_heatmap.png, id=145, 275.1078pt x 269.0853pt>
+<figures/Trouw_Odd_Pages_heatmap.png, id=146, 275.1078pt x 269.0853pt>
 File: figures/Trouw_Odd_Pages_heatmap.png Graphic file (type png)
 <use figures/Trouw_Odd_Pages_heatmap.png>
 Package pdftex.def Info: figures/Trouw_Odd_Pages_heatmap.png  used on input line 119.
 (pdftex.def)             Requested size: 132.01869pt x 129.13484pt.
-<figures/even_sizes.jpg, id=146, 1445.4pt x 1445.4pt>
+<figures/even_sizes.jpg, id=147, 1445.4pt x 1445.4pt>
 File: figures/even_sizes.jpg Graphic file (type jpg)
 <use figures/even_sizes.jpg>
 Package pdftex.def Info: figures/even_sizes.jpg  used on input line 130.
 (pdftex.def)             Requested size: 264.04245pt x 264.04245pt.
-<figures/odd_sizes.jpg, id=147, 1445.4pt x 1445.4pt>
+<figures/odd_sizes.jpg, id=148, 1445.4pt x 1445.4pt>
 File: figures/odd_sizes.jpg Graphic file (type jpg)
 <use figures/odd_sizes.jpg>
 Package pdftex.def Info: figures/odd_sizes.jpg  used on input line 136.
@@ -830,19 +830,19 @@ Package microtype Info: Loading generic protrusion settings for font family
 Package microtype Info: Character `texttrademark ' is missing
 (microtype)             in font `TS1/lmtt/m/n/9.5'.
 (microtype)             Ignoring protrusion settings for this character.
-<figures/cigarette_ads.jpg, id=169, 1156.32pt x 722.7pt>
+<figures/cigarette_ads.jpg, id=170, 1156.32pt x 722.7pt>
 File: figures/cigarette_ads.jpg Graphic file (type jpg)
 <use figures/cigarette_ads.jpg>
 Package pdftex.def Info: figures/cigarette_ads.jpg  used on input line 185.
 (pdftex.def)             Requested size: 297.0446pt x 185.64795pt.
  [9] [10 </Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/figures/cigarette_ads.jpg>]
-<figures/example_buffalo.jpg, id=188, 1272.755pt x 1778.645pt>
+<figures/example_buffalo.jpg, id=189, 1272.755pt x 1778.645pt>
 File: figures/example_buffalo.jpg Graphic file (type jpg)
 <use figures/example_buffalo.jpg>
 Package pdftex.def Info: figures/example_buffalo.jpg  used on input line 201.
 (pdftex.def)             Requested size: 297.0446pt x 415.10481pt.
  [11] [12 </Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/figures/example_buffalo.jpg>] [13]
-<figures/segmentation_error.png, id=211, 807.015pt x 484.81125pt>
+<figures/segmentation_error.png, id=212, 807.015pt x 484.81125pt>
 File: figures/segmentation_error.png Graphic file (type png)
 <use figures/segmentation_error.png>
 Package pdftex.def Info: figures/segmentation_error.png  used on input line 225.
@@ -853,7 +853,7 @@ File: figures/cigarette_nationality.jpg Graphic file (type jpg)
 Package pdftex.def Info: figures/cigarette_nationality.jpg  used on input line 236.
 (pdftex.def)             Requested size: 297.0446pt x 185.64795pt.
  [14 </Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/figures/segmentation_error.png>] [15 </Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/figures/cigarette_nationality.jpg>] [16]
-<figures/bursts_top50.png, id=245, 663.4386pt x 842.4273pt>
+<figures/bursts_top50.png, id=244, 663.4386pt x 842.4273pt>
 File: figures/bursts_top50.png Graphic file (type png)
 <use figures/bursts_top50.png>
 Package pdftex.def Info: figures/bursts_top50.png  used on input line 270.
@@ -876,18 +876,18 @@ LaTeX Font Warning: Size substitutions with differences
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 317.
  ) 
 Here is how much of TeX's memory you used:
- 13514 strings out of 480997
- 210844 string characters out of 5912194
+ 13515 strings out of 480997
+ 210850 string characters out of 5912194
  506053 words of memory out of 5000000
  28307 multiletter control sequences out of 15000+600000
- 645357 words of font info for 198 fonts, out of 8000000 for 9000
+ 645441 words of font info for 199 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,10n,100p,1264b,606s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 63i,10n,100p,1268b,606s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmri8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsso8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsy7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on /Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/article.pdf (23 pages, 7023191 bytes).
+Output written on /Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/article.pdf (23 pages, 7022772 bytes).
 PDF statistics:
- 374 PDF objects out of 1000 (max. 8388607)
- 296 compressed objects within 3 object streams
- 83 named destinations out of 1000 (max. 500000)
+ 373 PDF objects out of 1000 (max. 8388607)
+ 295 compressed objects within 3 object streams
+ 82 named destinations out of 1000 (max. 500000)
  34470 words of extra memory for PDF output out of 35830 (max. 10000000)
 

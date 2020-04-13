@@ -1,19 +1,19 @@
 # Fdb version 3
-["bibtex article"] 1586760291 "article.aux" "article.bbl" "article" 1586764020
+["bibtex article"] 1586765904 "article.aux" "article.bbl" "article" 1586765928
   "/usr/local/texlive/2019/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "article.aux" 1586764019 8726 a4d8231370ec92adc8e2ea730cf9772c "pdflatex"
+  "article.aux" 1586765919 8726 a4d8231370ec92adc8e2ea730cf9772c "pdflatex"
   "bibliography.bib" 1586530805 24379 cc18694bd3c71f01b59a0c38eb4cd49d ""
   (generated)
-  "article.bbl"
   "article.blg"
-["makeindex article.idx"] 1586696294 "article.idx" "article.ind" "article" 1586764020
-  "article.idx" 1586764017 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "article.bbl"
+["makeindex article.idx"] 1586765899 "article.idx" "article.ind" "article" 1586765928
+  "article.idx" 1586765916 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "article.ind"
   "article.ilg"
-["pdflatex"] 1586764016 "/Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/article.tex" "/Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/article.pdf" "article" 1586764020
-  "/Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/article.aux" 1586764019 8726 a4d8231370ec92adc8e2ea730cf9772c ""
-  "/Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/article.tex" 1586760654 43501 64ba84a982bb3ecfc821bb992b6372b9 ""
+["pdflatex"] 1586765916 "/Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/article.tex" "/Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/article.pdf" "article" 1586765928
+  "/Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/article.aux" 1586765919 8726 a4d8231370ec92adc8e2ea730cf9772c ""
+  "/Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/article.tex" 1586765927 43526 b5193ad88a34e12d4677d31cf40d7d39 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1254269338 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1202520719 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc" 1202520719 2840 216e6e45ad352e2456e1149f28885bee ""
@@ -206,11 +206,11 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1582877793 4792288 56d4166e412ea99ae0f8598356992926 ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1582877943 8276547 d6f75f2ddd1a1132ef86d978aa222274 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "article.aux" 1586764019 8726 a4d8231370ec92adc8e2ea730cf9772c "pdflatex"
-  "article.bbl" 1586760291 6736 348cdb6561f3bcef0711cdc9299aa611 "bibtex article"
-  "article.ind" 1586696296 162 2d244ade463e5092777039032a729748 "makeindex article.idx"
-  "article.out" 1586764019 863 74b424b9c3e01c159f02545938e0aed3 "pdflatex"
-  "article.tex" 1586760654 43501 64ba84a982bb3ecfc821bb992b6372b9 ""
+  "article.aux" 1586765919 8726 a4d8231370ec92adc8e2ea730cf9772c "pdflatex"
+  "article.bbl" 1586765904 6736 348cdb6561f3bcef0711cdc9299aa611 "bibtex article"
+  "article.ind" 1586765900 162 2d244ade463e5092777039032a729748 "makeindex article.idx"
+  "article.out" 1586765919 863 74b424b9c3e01c159f02545938e0aed3 "pdflatex"
+  "article.tex" 1586765927 43526 b5193ad88a34e12d4677d31cf40d7d39 ""
   "dgruyter.sty" 1571000604 109427 55c343720abd1f88c526c547dc77990c ""
   "figures/Trouw_Even_Pages_heatmap.png" 1585653468 184383 cc2a8eed357a07a5cc522fe19c2f735c ""
   "figures/Trouw_Odd_Pages_heatmap.png" 1585653454 211610 519ad98c74b10676708a7bae3ce43770 ""
@@ -225,10 +225,10 @@
   "figures/odd_sizes.jpg" 1585661062 629530 d5887f93c22659614b38a050ae2ac592 ""
   "figures/segmentation_error.png" 1514976213 2410802 84ff1bfdd05fca2d7a16516c3854d8c9 ""
   (generated)
-  "/Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/article.log"
+  "article.out"
   "article.idx"
   "article.aux"
-  "/Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/article.pdf"
-  "article.pdf"
-  "article.out"
   "article.log"
+  "article.pdf"
+  "/Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/article.pdf"
+  "/Users/melvinwevers/Dropbox/Projects/ELDORADO/ms/article.log"
