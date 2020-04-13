@@ -1,0 +1,10 @@
+\BOOKMARK [0][-]{section*.1}{Mining Historical Advertisements in Digitized Newspapers }{}% 1
+\BOOKMARK [1][-]{section.1}{1 Introduction}{section*.1}% 2
+\BOOKMARK [1][-]{section.2}{2 Metadata Analysis: Advertisements in Almost All Shapes and Sizes}{section*.1}% 3
+\BOOKMARK [1][-]{section.3}{3 Text Mining Advertisements}{section*.1}% 4
+\BOOKMARK [2][-]{subsection.3.1}{3.1 Cigarettes and Product Nationalities}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.2}{3.2 Charting Product Nationalities}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.3}{3.3 Product features}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.3.1}{3.3.1 Finding Trending Topics using Burst Detection}{subsection.3.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.3.2}{3.3.2 Detecting Distinctive Features Using Text Classifiers}{subsection.3.3}% 9
+\BOOKMARK [1][-]{section.4}{4 Conclusion}{section*.1}% 10
