@@ -4,3 +4,5 @@ This repository contains the code and manuscript for the chapter submitted to th
 
 The `notebook` folder contains the notebooks for data preparation and analyses. 
 The `ms` folder contains the manuscript files. 
+
+The data has not been added due to copyright issues, but is available upon request. 
