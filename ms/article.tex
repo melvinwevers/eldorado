@@ -121,22 +121,22 @@ To get a better grasp of the groups of ads based on their size and their positio
   \centering
   \begin{subfigure}[b]{0.8\textwidth}
     \includegraphics[width=\textwidth]{figures/even_sizes}
-    \caption{Clusters of advertisement based on width, height and relative page number on even pages in \textit{Trouw}}
+    \caption{Even pages}
     \label{fig:clustera}
   \end{subfigure}
   %
   \begin{subfigure}[b]{0.8\textwidth}
     \includegraphics[width=\textwidth]{figures/odd_sizes}
-    \caption{Clusters of advertisement based on width, height and relative page number on odd pages in \textit{Trouw}}
+    \caption{Odd pages}
     \label{fig:clusterb}
   \end{subfigure}
-  \caption{Cluster analysis of advertisements in \textit{Trouw}}.
+  \caption{Clustering of advertisements based on width, height, and relative position in \textit{Trouw}}
 \end{figure}
 
 The results of this clustering are presented in Figures~\ref{fig:clustera} \& ~\ref{fig:clusterb}. These plots are based on a sample of 50,000 ads from even and odd pages. We see apparent differences in size and position in the newspaper between the odd and even pages. The odd pages are less structured and lack a clear signal and show more noise, especially for ads with larger sizes. The ads on the even pages seem to be more structured. For some of these clusters, there is more variation, while others are closely clustered. A noteworthy cluster on the even pages is the brown cluster, which refers to full-page ads. 
 %
 We can also see that these ads appear toward the end of the newspaper. Newspapers are generally structured in columns, which is visible in the distinct structure present in the widths of advertisements (x-axis). The height of ads (y-axis) has more variance than the width, nevertheless, the algorithm distinguishes clusters based on their height. In terms of relative position, the number of advertisements increases towards the back of the newspaper (z-axis). Ads with a small width and a more considerable height, possibly classifieds ads (see Figure~\ref{fig:classifieds} for an example), also appear toward the end of the paper. 
-
+%
 The information contained in these clusters can help us focus on or filter out particular subsets of advertisements. This method can help us determine the boundaries of these ads in terms of size and position. 
 
 We can also engineer additional features that help us refine our subsets even further. A useful feature, for instance, is character proportion, which can be calculated by dividing the number of characters by the advert's size (width $x$ height) of the adverts. We can use this metric to filter out textual advertisements or those that predominantly consist of visual material. A similar feature is the ratio of digits to characters. This feature can be used to distinguish ads that mostly list prices of imported goods or wholesale goods, from other ads. 
@@ -217,7 +217,7 @@ An added benefit of proximity searches is that it helps to mitigate issues relat
   %
   %\qquad
   \includegraphics[width=.7\textwidth]{figures/segmentation_error}%
-  \caption{Example of an incorrect segmentation of advertisements. \textit{Algemeen Handelsblad}, January 15, 1883}%
+  \caption{Example of an incorrect segmentation of advertisements. \textit{Algemeen Handelsblad}, January 15, 1883}.%
   \label{fig:segmentation}%
 \end{figure}
 
