@@ -1,2 +1,12 @@
 .ipynb_checkpoints
 .DS_store
+data/data.tar.gz
+ms/.texpadtmp/article.aux
+ms/.texpadtmp/article.bbl
+ms/.texpadtmp/article.blg
+ms/.texpadtmp/article.idx
+ms/.texpadtmp/article.ilg
+ms/.texpadtmp/article.ind
+ms/.texpadtmp/article.log
+ms/.texpadtmp/article.out
+ms/.texpadtmp/article.synctex.gz
